@@ -1,0 +1,6 @@
+keras
+sklearn
+seaborn
+dlib
+pandas
+jupyter
